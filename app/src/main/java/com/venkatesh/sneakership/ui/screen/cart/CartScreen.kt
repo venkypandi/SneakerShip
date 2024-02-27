@@ -153,7 +153,7 @@ fun CartItem(
                 )
             )
             Text(
-                text = "$$totalPrice",
+                text = "₹$totalPrice",
                 color = MaterialTheme.colorScheme.secondary,
                 style = MaterialTheme.typography.titleSmall,
             )
